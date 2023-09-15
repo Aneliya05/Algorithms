@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Aneliya\\IT career\\Visual Studio Projects IT Career 10\\SumsAlgorithm\\SumsAlgorithm\\SumsAlgorithm.csproj": {}
+    "D:\\Aneliya\\IT career\\Visual Studio Projects IT Career 10\\Algorithms\\SumsAlgorithm\\SumsAlgorithm\\SumsAlgorithm.csproj": {}
   },
   "projects": {
-    "D:\\Aneliya\\IT career\\Visual Studio Projects IT Career 10\\SumsAlgorithm\\SumsAlgorithm\\SumsAlgorithm.csproj": {
+    "D:\\Aneliya\\IT career\\Visual Studio Projects IT Career 10\\Algorithms\\SumsAlgorithm\\SumsAlgorithm\\SumsAlgorithm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aneliya\\IT career\\Visual Studio Projects IT Career 10\\SumsAlgorithm\\SumsAlgorithm\\SumsAlgorithm.csproj",
+        "projectUniqueName": "D:\\Aneliya\\IT career\\Visual Studio Projects IT Career 10\\Algorithms\\SumsAlgorithm\\SumsAlgorithm\\SumsAlgorithm.csproj",
         "projectName": "SumsAlgorithm",
-        "projectPath": "D:\\Aneliya\\IT career\\Visual Studio Projects IT Career 10\\SumsAlgorithm\\SumsAlgorithm\\SumsAlgorithm.csproj",
+        "projectPath": "D:\\Aneliya\\IT career\\Visual Studio Projects IT Career 10\\Algorithms\\SumsAlgorithm\\SumsAlgorithm\\SumsAlgorithm.csproj",
         "packagesPath": "C:\\Users\\aneli\\.nuget\\packages\\",
-        "outputPath": "D:\\Aneliya\\IT career\\Visual Studio Projects IT Career 10\\SumsAlgorithm\\SumsAlgorithm\\obj\\",
+        "outputPath": "D:\\Aneliya\\IT career\\Visual Studio Projects IT Career 10\\Algorithms\\SumsAlgorithm\\SumsAlgorithm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aneli\\AppData\\Roaming\\NuGet\\NuGet.Config",
