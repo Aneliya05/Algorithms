@@ -1,0 +1,15 @@
+D:\Aneliya\IT career\Visual Studio Projects IT Career 10\MyBackpackExercise\MyBackpackExercise\bin\Debug\net6.0\MyBackpackExercise.exe
+D:\Aneliya\IT career\Visual Studio Projects IT Career 10\MyBackpackExercise\MyBackpackExercise\bin\Debug\net6.0\MyBackpackExercise.deps.json
+D:\Aneliya\IT career\Visual Studio Projects IT Career 10\MyBackpackExercise\MyBackpackExercise\bin\Debug\net6.0\MyBackpackExercise.runtimeconfig.json
+D:\Aneliya\IT career\Visual Studio Projects IT Career 10\MyBackpackExercise\MyBackpackExercise\bin\Debug\net6.0\MyBackpackExercise.dll
+D:\Aneliya\IT career\Visual Studio Projects IT Career 10\MyBackpackExercise\MyBackpackExercise\bin\Debug\net6.0\MyBackpackExercise.pdb
+D:\Aneliya\IT career\Visual Studio Projects IT Career 10\MyBackpackExercise\MyBackpackExercise\obj\Debug\net6.0\MyBackpackExercise.csproj.AssemblyReference.cache
+D:\Aneliya\IT career\Visual Studio Projects IT Career 10\MyBackpackExercise\MyBackpackExercise\obj\Debug\net6.0\MyBackpackExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aneliya\IT career\Visual Studio Projects IT Career 10\MyBackpackExercise\MyBackpackExercise\obj\Debug\net6.0\MyBackpackExercise.AssemblyInfoInputs.cache
+D:\Aneliya\IT career\Visual Studio Projects IT Career 10\MyBackpackExercise\MyBackpackExercise\obj\Debug\net6.0\MyBackpackExercise.AssemblyInfo.cs
+D:\Aneliya\IT career\Visual Studio Projects IT Career 10\MyBackpackExercise\MyBackpackExercise\obj\Debug\net6.0\MyBackpackExercise.csproj.CoreCompileInputs.cache
+D:\Aneliya\IT career\Visual Studio Projects IT Career 10\MyBackpackExercise\MyBackpackExercise\obj\Debug\net6.0\MyBackpackExercise.dll
+D:\Aneliya\IT career\Visual Studio Projects IT Career 10\MyBackpackExercise\MyBackpackExercise\obj\Debug\net6.0\refint\MyBackpackExercise.dll
+D:\Aneliya\IT career\Visual Studio Projects IT Career 10\MyBackpackExercise\MyBackpackExercise\obj\Debug\net6.0\MyBackpackExercise.pdb
+D:\Aneliya\IT career\Visual Studio Projects IT Career 10\MyBackpackExercise\MyBackpackExercise\obj\Debug\net6.0\MyBackpackExercise.genruntimeconfig.cache
+D:\Aneliya\IT career\Visual Studio Projects IT Career 10\MyBackpackExercise\MyBackpackExercise\obj\Debug\net6.0\ref\MyBackpackExercise.dll
