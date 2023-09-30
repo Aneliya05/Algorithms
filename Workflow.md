@@ -1,6 +1,6 @@
-# изпълнение
+# Workflow
 
-| ресурс | работи се/изпълнен | 
+| Resource | ready/work in progress | 
 | - | - |
 | 01.Greedy Algorithm |  
 |../Sums| ✅ Y |
@@ -12,9 +12,10 @@
 |../Sets| ✅ Y |
 
 
-В таблицата е описано съдържанието  
+Legend:
 wip: work in progress  
 Y: Yes (Ready)  
+only red square: work has not started yet
 
 
  
